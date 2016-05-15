@@ -1,5 +1,5 @@
 {
-    "name": "pingpong/admin",
+    "name": "modelizer/admin",
     "description": "Laravel Admin Package",
     "keywords": ["pingpong", "admin", "laravel", "administrator"],
     "license": "BSD-3-Clause",
